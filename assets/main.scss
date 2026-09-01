@@ -1,0 +1,75 @@
+---
+---
+
+@font-face {
+  font-family: 'Dancing Script';
+  src: url('/assets/fonts/DancingScript-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Minima color overrides */
+$brand-color:          #4a8fb5;
+$brand-color-dark:     #1d3d5c;
+$brand-color-light:    #d0e8f5;
+$background-color:     #f7f5f0;
+$text-color:           #2a2a2a;
+$site-title-color:     #ffffff;
+$link-color:           #2a6e99;
+$link-hover-color:     #1d3d5c;
+
+@import "minima";
+
+/* Nav bar */
+.site-header {
+  background-color: #1d3d5c;
+  border-top: 4px solid #4a8fb5;
+  border-bottom: none;
+}
+
+.site-title,
+.site-title:visited {
+  color: #ffffff !important;
+  font-family: 'Dancing Script', cursive !important;
+  font-weight: 700;
+  font-size: 2rem;
+  letter-spacing: 0.01em;
+}
+
+.site-nav .page-link {
+  color: #d0e8f5;
+}
+
+.site-nav .page-link:hover {
+  color: #ffffff;
+}
+
+/* Flyer image on home */
+.flyer {
+  display: block;
+  max-width: 380px;
+  width: 100%;
+  margin: 2rem auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(29, 61, 92, 0.2);
+}
+
+body {
+  background-color: $background-color;
+}
+
+h1 {
+  color: #1d3d5c;
+}
+
+h2, .post-content h2, .page-content h2 {
+  color: #1d3d5c;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-top: 2rem;
+  margin-bottom: 0.4rem;
+}
+
+.map-embed {
+  margin-top: 1.5rem;
+}

@@ -1,0 +1,26 @@
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<div id="map" style="height: 380px; border-radius: 8px; margin-top: 1.5rem;"></div>
+
+<script>
+  var map = L.map('map').setView([47.1710, 8.6720], 15);
+
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    maxZoom: 19
+  }).addTo(map);
+
+  L.marker([47.16800697750201, 8.67821286015771])
+    .addTo(map)
+    .bindPopup('<strong>Ferienheim Mistlibühl</strong><br>Vorder-Mistlibühl, 8825 Hütten<br><a href="https://maps.app.goo.gl/XXvMDL4QDvu13iyF6" target="_blank">Google Maps</a>')
+    .openPopup();
+
+  L.marker([47.17205499748082, 8.66819861371322])
+    .addTo(map)
+    .bindPopup('<strong>Parkplatz</strong><br><a href="https://maps.app.goo.gl/RDoDfdSKeScCPNLK9" target="_blank">Google Maps</a>');
+
+  L.marker([47.176364, 8.669870])
+    .addTo(map)
+    .bindPopup('<strong>Bushaltestelle</strong><br>Hütten, Schöntal<br>Shuttle Service<br><a href="https://maps.app.goo.gl/7zCqMmiyKUFWubzR7" target="_blank">Google Maps</a>');
+</script>
