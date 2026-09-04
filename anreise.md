@@ -16,10 +16,10 @@ Wir empfehlen die Anreise mit dem öffentlichen Verkehr. Die nächste Bushaltest
 
 ## Anreise mit dem Auto
 
-Der Parkplatz beim Ferienheim ist sehr begrenzt und ausschliesslich für Übernachtungsgäste mit Campingfahrzeugen reserviert. Alle anderen Gäste müssen ca. 2 km entfernt beim [öffentlichen Parkplatz](https://maps.app.goo.gl/7p1V3qMbJEa17DNE6) parkieren — der Shuttle (s.u.) fährt dort vorbei.
+Die Parkplätze beim Ferienheim sind begrenzt. Bitte nur im grünen Bereich gemäss Plan parkieren. Sollten die Parkplätze voll sein, müsste ca. 2 km entfernt beim [öffentlichen Parkplatz](https://maps.app.goo.gl/7p1V3qMbJEa17DNE6) parkiert werden — der Shuttle (s.u.) fährt dort vorbei.
 
 ## Shuttle Service
 
-Ab **Hütten, Schöntal** fährt ein Shuttle zum Ferienheim und hält dabei beim öffentlichen Parkplatz. Die Shuttle-Zeiten richten sich nach dem Busfahrplan und werden noch bekannt gegeben.
+Ab **Hütten, Schöntal** fährt ein Shuttle auf Anfrage zum Ferienheim und hält dabei beim öffentlichen Parkplatz.
 
 {% include map.html %}
