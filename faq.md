@@ -37,6 +37,10 @@ Du wirst im Haus deinen Namen auf einer Zimmertür finden.
 
 Ab 22 Uhr sind wir gebeten draussen leise zu sein.
 
+## Kann ich meinen Hund mitbringen?
+
+Es wird einzelne Hunde 🐕 auf dem Festgelände geben (ca. 3–4). Auf der Wiese, vor allem bei schlechtem Wetter auch im Erdgeschoss dürfen sie sein, mit Rücksicht auf Gäste und andere Hunde.
+
 ## Was soll ich mitbringen?
 
 Bitte bringt ein Foto von euch (evt. mit Denise) mit. Es wird ein Buch aufliegen für individuelle Einträge und Fotos.
@@ -45,6 +49,10 @@ Am Freitag ist für das kulinarische Wohl gesorgt. Getränke sind für das ganze
 Vielen Dank an alle, die für Samstag einen Salat oder Dessert / Kuchen mitbringen oder vor Ort in der gut ausgestatten Küche zubereiten (gemäss Anmeldung).
 
 Sachen zum Übernachten, siehe oben.
+
+WespenallergikerInnen bitte selbst Epipen mitbringen.
+
+Bitte keine Geschenke mitbringen. Ich habe alles, was ich brauche. Schon dass ihr da seid und mit mir feiert, ist ein grosses Geschenk. Wenn ihr euch an den Bandkosten von Samstag beteiligen möchtet, nehmen wir das sehr gerne an (Twint oder bar vor Ort möglich).
 
 
 ## Wo ist das Anmeldeformular nochmal?
